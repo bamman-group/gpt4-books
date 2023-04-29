@@ -8,7 +8,7 @@ Here, the original name, "Nippers", has been replaced with "[MASK]".
 
 `create_name_cloze.sh` provides an example for how to create name cloze passages for an input text.  The process involves running [BookNLP](https://github.com/booknlp/booknlp) on the text to tokenize it and extract entities; and then identifying passages that meet the criteria outlined above (for length and number of entities).
 
-Run with on the sample text provided with:
+Install BookNLP with (`pip install booknlp`) and run on the sample text provided with:
 
 `./create_name_cloze.sh 11231_bartleby.txt 11231_bartleby`
 
