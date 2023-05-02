@@ -1,7 +1,7 @@
 # gpt4-books
 Code and data to support the following paper:
 
-Kent K. Chang, Mackenzie Cramer, Sandeep Soni and David Bamman (2023), "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4", ArXiv.  
+Kent K. Chang, Mackenzie Cramer, Sandeep Soni and David Bamman (2023), "[Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://arxiv.org/abs/2305.00118)", ArXiv.  
 
 This work probes what books GPT-4 and ChatGPT have memorized by assessing the degree to which models are able to predict the masked token (a proper name) in name cloze passages like the following:
 
